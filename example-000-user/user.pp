@@ -1,0 +1,3 @@
+user { "budiantoip":
+    ensure => "present"
+}
